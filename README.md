@@ -1,7 +1,5 @@
 
 
-# HackerRank Solutions
-
 Welcome to my GitHub repository where I showcase my solutions to various HackerRank challenges. This repository contains solutions implemented in multiple programming languages including C, C++, Java, and more. Each solution is well-documented and tested to ensure accuracy and efficiency.
 
 ## Languages Covered
